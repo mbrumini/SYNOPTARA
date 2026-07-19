@@ -26,4 +26,8 @@ SYNOPTARA è pensato per costruttori di macchine, system integrator e aziende ma
 
 Diventare il nucleo software di un sistema di controllo qualità capace di osservare un prodotto da più punti di vista, adattarsi a ricette differenti e trasformare immagini industriali in decisioni affidabili e utilizzabili dalla macchina.
 
+## Contatti
+
+Per informazioni, collaborazioni o richieste sul progetto: [mbrumini@gmail.com](mailto:mbrumini@gmail.com)
+
 > SYNOPTARA è attualmente in sviluppo privato. Codice sorgente, architettura e documentazione tecnica non sono pubblicati in questa repository.

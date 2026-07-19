@@ -26,4 +26,8 @@ SYNOPTARA s'adresse aux constructeurs de machines, aux intégrateurs de système
 
 Devenir le cœur logiciel d'un système de contrôle qualité capable d'observer un produit sous plusieurs angles, de s'adapter à différentes recettes et de transformer des images industrielles en décisions fiables, directement exploitables par la machine.
 
+## Contact
+
+Pour toute information, collaboration ou demande concernant le projet : [mbrumini@gmail.com](mailto:mbrumini@gmail.com)
+
 > SYNOPTARA est actuellement développé de manière privée. Le code source, l'architecture et la documentation technique ne sont pas publiés dans ce dépôt.

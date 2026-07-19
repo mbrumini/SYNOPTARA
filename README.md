@@ -30,4 +30,8 @@ SYNOPTARA is designed for machine builders, system integrators, and manufacturer
 
 To become the software core of a quality-control system capable of observing a product from multiple viewpoints, adapting to different recipes, and turning industrial images into reliable decisions the machine can use.
 
+## Contact
+
+For information, collaborations, or project inquiries: [mbrumini@gmail.com](mailto:mbrumini@gmail.com)
+
 > SYNOPTARA is currently under private development. Source code, architecture, and technical documentation are not published in this repository.

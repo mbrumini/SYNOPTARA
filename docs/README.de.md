@@ -26,4 +26,8 @@ SYNOPTARA richtet sich an Maschinenbauer, Systemintegratoren und Fertigungsunter
 
 SYNOPTARA soll zum Softwarekern eines Qualitätskontrollsystems werden, das ein Produkt aus mehreren Blickwinkeln betrachtet, sich an unterschiedliche Rezepte anpasst und industrielle Bilder in zuverlässige, maschinenverwertbare Entscheidungen übersetzt.
 
+## Kontakt
+
+Für Informationen, Kooperationen oder Projektanfragen: [mbrumini@gmail.com](mailto:mbrumini@gmail.com)
+
 > SYNOPTARA befindet sich derzeit in privater Entwicklung. Quellcode, Architektur und technische Dokumentation werden in diesem Repository nicht veröffentlicht.
