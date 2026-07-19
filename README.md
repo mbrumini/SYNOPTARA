@@ -2,24 +2,26 @@
 
 **Industrial Vision Intelligence**
 
-SYNOPTARA è una piattaforma software per creare sistemi di ispezione visiva industriale intelligenti, configurabili e pronti a crescere insieme alla macchina.
+[Italiano](docs/README.it.md) · [Deutsch](docs/README.de.md) · [Français](docs/README.fr.md)
 
-Combina acquisizione multicamera, strumenti di visione e modelli AI per individuare difetti, anomalie e variazioni di processo direttamente sulla linea produttiva. Dalla singola stazione di controllo agli impianti con più punti di osservazione, ogni telecamera può contribuire a una decisione coordinata sul pezzo.
+SYNOPTARA is a software platform for building intelligent, configurable industrial visual-inspection systems that can grow with the machine.
 
-## Cosa vuole semplificare
+It combines multi-camera acquisition, vision tools, and AI models to detect defects, anomalies, and process variations directly on the production line. From a single inspection station to systems with multiple observation points, each camera can contribute to a coordinated decision about the inspected part.
 
-- configurazione di controlli visivi senza costruire ogni impianto da zero;
-- gestione coordinata di più telecamere e più fasi di ispezione;
-- raccolta delle immagini e preparazione dei dati per i tool AI;
-- collaudo, diagnostica e tracciabilità dei risultati;
-- integrazione in macchine automatiche e linee ad alta produttività.
+## What it aims to simplify
 
-## Per chi
+- configuring visual inspections without rebuilding every system from scratch;
+- coordinating multiple cameras and inspection stages;
+- acquiring images and preparing datasets for AI tools;
+- testing, diagnostics, and result traceability;
+- integration into automated machinery and high-throughput production lines.
 
-SYNOPTARA è pensato per costruttori di macchine, system integrator e aziende manifatturiere che vogliono portare la visione artificiale e l'intelligenza artificiale dal prototipo alla produzione reale.
+## Who it is for
 
-## Obiettivo
+SYNOPTARA is designed for machine builders, system integrators, and manufacturers who want to bring computer vision and artificial intelligence from prototype to real production.
 
-Diventare il nucleo software di un sistema di controllo qualità capace di osservare un prodotto da più punti di vista, adattarsi a ricette differenti e trasformare immagini industriali in decisioni affidabili e utilizzabili dalla macchina.
+## Vision
 
-> Il progetto è attualmente in sviluppo privato. Codice, architettura e documentazione tecnica non sono pubblicati in questa repository.
+To become the software core of a quality-control system capable of observing a product from multiple viewpoints, adapting to different recipes, and turning industrial images into reliable decisions the machine can use.
+
+> SYNOPTARA is currently under private development. Source code, architecture, and technical documentation are not published in this repository.
