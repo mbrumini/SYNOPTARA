@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/synoptara-cover.png" alt="SYNOPTARA — Industrial Vision Intelligence" width="900">
+</p>
+
 # SYNOPTARA
 
 **Industrial Vision Intelligence**
