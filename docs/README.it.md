@@ -28,6 +28,10 @@ Il progetto nasce da un'esperienza diretta nei sistemi di visione industriale ma
 
 Diventare il nucleo software di un sistema di controllo qualità capace di osservare un prodotto da più punti di vista, adattarsi a ricette differenti e trasformare immagini industriali in decisioni affidabili e utilizzabili dalla macchina.
 
+## Collaudo preliminare
+
+[Scarica la brochure del test su sei telecamere (PDF)](../output/pdf/SYNOPTARA_test_multicamera_IT.pdf)
+
 ## Contatti
 
 Per informazioni, collaborazioni o richieste sul progetto: [mbrumini@gmail.com](mailto:mbrumini@gmail.com)

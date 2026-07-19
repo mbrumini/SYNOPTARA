@@ -28,6 +28,10 @@ Le projet repose sur une expérience concrète des systèmes de vision industrie
 
 Devenir le cœur logiciel d'un système de contrôle qualité capable d'observer un produit sous plusieurs angles, de s'adapter à différentes recettes et de transformer des images industrielles en décisions fiables, directement exploitables par la machine.
 
+## Validation préliminaire
+
+[Télécharger la brochure du test à six caméras (italien, PDF)](../output/pdf/SYNOPTARA_test_multicamera_IT.pdf)
+
 ## Contact
 
 Pour toute information, collaboration ou demande concernant le projet : [mbrumini@gmail.com](mailto:mbrumini@gmail.com)

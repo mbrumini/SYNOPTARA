@@ -28,6 +28,10 @@ Das Projekt basiert auf praktischer Erfahrung mit industriellen Bildverarbeitung
 
 SYNOPTARA soll zum Softwarekern eines Qualitätskontrollsystems werden, das ein Produkt aus mehreren Blickwinkeln betrachtet, sich an unterschiedliche Rezepte anpasst und industrielle Bilder in zuverlässige, maschinenverwertbare Entscheidungen übersetzt.
 
+## Vorläufige Validierung
+
+[Broschüre zum Test mit sechs Kameras herunterladen (Italienisch, PDF)](../output/pdf/SYNOPTARA_test_multicamera_IT.pdf)
+
 ## Kontakt
 
 Für Informationen, Kooperationen oder Projektanfragen: [mbrumini@gmail.com](mailto:mbrumini@gmail.com)

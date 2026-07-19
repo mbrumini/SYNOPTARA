@@ -32,6 +32,10 @@ The project is built on hands-on experience with industrial vision systems datin
 
 To become the software core of a quality-control system capable of observing a product from multiple viewpoints, adapting to different recipes, and turning industrial images into reliable decisions the machine can use.
 
+## Preliminary validation
+
+[Download the six-camera test brochure (Italian, PDF)](output/pdf/SYNOPTARA_test_multicamera_IT.pdf)
+
 ## Contact
 
 For information, collaborations, or project inquiries: [mbrumini@gmail.com](mailto:mbrumini@gmail.com)
