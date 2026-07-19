@@ -22,6 +22,8 @@ SYNOPTARA unterstützt bis zu 16 Kameras, die unabhängig konfiguriert oder in f
 
 SYNOPTARA richtet sich an Maschinenbauer, Systemintegratoren und Fertigungsunternehmen, die Bildverarbeitung und künstliche Intelligenz vom Prototyp in die reale Produktion bringen wollen.
 
+Das Projekt basiert auf praktischer Erfahrung mit industriellen Bildverarbeitungssystemen seit 1999.
+
 ## Ziel
 
 SYNOPTARA soll zum Softwarekern eines Qualitätskontrollsystems werden, das ein Produkt aus mehreren Blickwinkeln betrachtet, sich an unterschiedliche Rezepte anpasst und industrielle Bilder in zuverlässige, maschinenverwertbare Entscheidungen übersetzt.

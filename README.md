@@ -26,6 +26,8 @@ SYNOPTARA supports up to 16 cameras, configured independently or organized into 
 
 SYNOPTARA is designed for machine builders, system integrators, and manufacturers who want to bring computer vision and artificial intelligence from prototype to real production.
 
+The project is built on hands-on experience with industrial vision systems dating back to 1999.
+
 ## Vision
 
 To become the software core of a quality-control system capable of observing a product from multiple viewpoints, adapting to different recipes, and turning industrial images into reliable decisions the machine can use.

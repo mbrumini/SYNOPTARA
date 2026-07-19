@@ -22,6 +22,8 @@ SYNOPTARA prend en charge jusqu'à 16 caméras, configurées indépendamment ou 
 
 SYNOPTARA s'adresse aux constructeurs de machines, aux intégrateurs de systèmes et aux industriels qui souhaitent faire passer la vision artificielle et l'intelligence artificielle du prototype à la production réelle.
 
+Le projet repose sur une expérience concrète des systèmes de vision industrielle acquise depuis 1999.
+
 ## Objectif
 
 Devenir le cœur logiciel d'un système de contrôle qualité capable d'observer un produit sous plusieurs angles, de s'adapter à différentes recettes et de transformer des images industrielles en décisions fiables, directement exploitables par la machine.

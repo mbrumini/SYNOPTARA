@@ -22,6 +22,8 @@ SYNOPTARA supporta fino a 16 telecamere, configurabili individualmente oppure or
 
 SYNOPTARA è pensato per costruttori di macchine, system integrator e aziende manifatturiere che vogliono portare la visione artificiale e l'intelligenza artificiale dal prototipo alla produzione reale.
 
+Il progetto nasce da un'esperienza diretta nei sistemi di visione industriale maturata dal 1999.
+
 ## Obiettivo
 
 Diventare il nucleo software di un sistema di controllo qualità capace di osservare un prodotto da più punti di vista, adattarsi a ricette differenti e trasformare immagini industriali in decisioni affidabili e utilizzabili dalla macchina.
