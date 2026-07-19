@@ -8,6 +8,8 @@ SYNOPTARA is a software platform for building intelligent, configurable industri
 
 It combines multi-camera acquisition, vision tools, and AI models to detect defects, anomalies, and process variations directly on the production line. From a single inspection station to systems with multiple observation points, each camera can contribute to a coordinated decision about the inspected part.
 
+SYNOPTARA supports up to 16 cameras, configured independently or organized into functional groups. Each camera can use its own acquisition parameters, vision tools, AI models, and control logic.
+
 ## What it aims to simplify
 
 - configuring visual inspections without rebuilding every system from scratch;

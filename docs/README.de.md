@@ -8,6 +8,8 @@ SYNOPTARA ist eine Softwareplattform zur Entwicklung intelligenter und konfiguri
 
 Sie verbindet Mehrkamera-Bilderfassung, Bildverarbeitungswerkzeuge und KI-Modelle, um Fehler, Anomalien und Prozessabweichungen direkt in der Produktionslinie zu erkennen. Von einer einzelnen Prüfstation bis zu Anlagen mit mehreren Beobachtungspunkten kann jede Kamera zu einer koordinierten Entscheidung über das geprüfte Bauteil beitragen.
 
+SYNOPTARA unterstützt bis zu 16 Kameras, die unabhängig konfiguriert oder in funktionalen Gruppen organisiert werden können. Jede Kamera kann eigene Aufnahmeparameter, Bildverarbeitungswerkzeuge, KI-Modelle und Prüflogiken verwenden.
+
 ## Was SYNOPTARA vereinfachen soll
 
 - Sichtprüfungen konfigurieren, ohne jede Anlage von Grund auf neu zu entwickeln;

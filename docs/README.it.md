@@ -8,6 +8,8 @@ SYNOPTARA è una piattaforma software per creare sistemi di ispezione visiva ind
 
 Combina acquisizione multicamera, strumenti di visione e modelli AI per individuare difetti, anomalie e variazioni di processo direttamente sulla linea produttiva. Dalla singola stazione di controllo agli impianti con più punti di osservazione, ogni telecamera può contribuire a una decisione coordinata sul pezzo.
 
+SYNOPTARA supporta fino a 16 telecamere, configurabili individualmente oppure organizzate in gruppi funzionali. Ogni telecamera può utilizzare parametri di acquisizione, strumenti di visione, modelli AI e logiche di controllo specifici.
+
 ## Cosa vuole semplificare
 
 - configurazione di controlli visivi senza costruire ogni impianto da zero;

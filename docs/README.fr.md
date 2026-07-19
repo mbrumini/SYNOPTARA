@@ -8,6 +8,8 @@ SYNOPTARA est une plateforme logicielle conçue pour créer des systèmes d'insp
 
 Elle associe acquisition multicaméra, outils de vision et modèles d'IA afin de détecter les défauts, les anomalies et les variations de processus directement sur la ligne de production. D'un poste de contrôle unique à une installation comportant plusieurs points d'observation, chaque caméra peut contribuer à une décision coordonnée sur la pièce inspectée.
 
+SYNOPTARA prend en charge jusqu'à 16 caméras, configurées indépendamment ou organisées en groupes fonctionnels. Chaque caméra peut utiliser ses propres paramètres d'acquisition, outils de vision, modèles d'IA et logiques de contrôle.
+
 ## Ce que SYNOPTARA veut simplifier
 
 - configurer des contrôles visuels sans reconstruire chaque système depuis zéro ;
